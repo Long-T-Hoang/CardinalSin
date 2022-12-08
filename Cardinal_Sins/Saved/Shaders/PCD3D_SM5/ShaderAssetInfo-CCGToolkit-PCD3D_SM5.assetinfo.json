@@ -267,14 +267,21 @@
 			]
 		},
 		{
-			"ShaderMapHash": "1C1B24413EB57E93D6677F87AC440F7E9C0E50E0",
+			"ShaderMapHash": "D2BD8D4452F049B26D014E3D7077EA3668F183D1",
 			"Assets": [
-				"/Game/CCGToolkit/CardGame/CardSets/Basic_Set/Materials/Card_Mat_Parent"
+				"/Game/CCGToolkit/Materials/UI/Icon_Parent_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "5E7A33076F423A9513B34722398DE34B429C1FD7",
+			"Assets": [
+				"/Game/CCGToolkit/Fonts/Lobster_Font_Mat"
 			]
 		},
 		{
 			"ShaderMapHash": "645758F780F8D0F2E5EDE3C8498A18050A445A2E",
 			"Assets": [
+				"/Game/CCGToolkit/CardGame/CardSets/Basic_Set/Materials/NewCardFrameMatInst/CardFrame_Mat_Parent",
 				"/Game/CCGToolkit/CardGame/CardSets/Basic_Set/Materials/CardFrame_Mat_Parent"
 			]
 		},
@@ -282,24 +289,6 @@
 			"ShaderMapHash": "3DA4BEC26B4C8E4640DAB1C19712EBDA2DA810A8",
 			"Assets": [
 				"/Game/CCGToolkit/CardGame/CardSets/Basic_Set/Materials/3DCard_Nothing"
-			]
-		},
-		{
-			"ShaderMapHash": "D2BD8D4452F049B26D014E3D7077EA3668F183D1",
-			"Assets": [
-				"/Game/CCGToolkit/Materials/UI/Icon_Parent_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "35A3B2488A4A978F60EB3E599DD0D0A8A8339736",
-			"Assets": [
-				"/Game/CCGToolkit/Materials/Tile_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "4FDC229D1404EF63E3AD821C1144ED24D0E3FBCC",
-			"Assets": [
-				"/Game/CCGToolkit/CardGame/PlayerTiles/PlayerUITiles/PlayerUI_Mat_Parent"
 			]
 		},
 		{
@@ -312,6 +301,30 @@
 			"ShaderMapHash": "B6B072A83552C62B7B9DB455426F022B70D7B29B",
 			"Assets": [
 				"/Game/CCGToolkit/CardGame/CardSets/Basic_Set/Effects/Card_Shadow_Glow_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "1C1B24413EB57E93D6677F87AC440F7E9C0E50E0",
+			"Assets": [
+				"/Game/CCGToolkit/CardGame/CardSets/Basic_Set/Materials/Card_Mat_Parent"
+			]
+		},
+		{
+			"ShaderMapHash": "35A3B2488A4A978F60EB3E599DD0D0A8A8339736",
+			"Assets": [
+				"/Game/CCGToolkit/Materials/Tile_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "0D32F85CC35F928CE32698734371006BDEE5045F",
+			"Assets": [
+				"/Game/Fonts/Viking/Viking_Font_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "4FDC229D1404EF63E3AD821C1144ED24D0E3FBCC",
+			"Assets": [
+				"/Game/CCGToolkit/CardGame/PlayerTiles/PlayerUITiles/PlayerUI_Mat_Parent"
 			]
 		},
 		{
@@ -372,18 +385,6 @@
 			"ShaderMapHash": "D4BFA4C33659CC5F1426784EC5F45910BD773564",
 			"Assets": [
 				"/Game/Materials/Background"
-			]
-		},
-		{
-			"ShaderMapHash": "5E7A33076F423A9513B34722398DE34B429C1FD7",
-			"Assets": [
-				"/Game/CCGToolkit/Fonts/Lobster_Font_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "0D32F85CC35F928CE32698734371006BDEE5045F",
-			"Assets": [
-				"/Game/Fonts/Viking/Viking_Font_Material"
 			]
 		}
 	]
